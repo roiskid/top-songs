@@ -53,9 +53,9 @@ If option that displays images is enabled than this can happen due to external i
 
 == Screenshots ==
 
-1. screenshot_1.png - showing stand-alone chart with no images
-2. screenshot_2.png - showing few simple setting to make plugin more interactive
-3. screenshot_3.png - showing music chart with images enabled
+1. showing music chart with images enabled
+2. showing few simple setting to make plugin more interactive
+3. showing stand-alone chart with no images
 
 == Changelog ==
 
