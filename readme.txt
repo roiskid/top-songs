@@ -17,7 +17,7 @@ Simple stand-alone widget displaying daily top songs via ajax script (that is ca
 
 ** External source **
 
-External source page (External source URL: http://www.mytopnewsongs.com) is owned by Tomaz Miholic and it's not in privacy policy conflict with the website privacy. External source is necessary part of this plugin because the data is coming from this source.
+External source page External source URL: http://www.mytopnewsongs.com is owned by Tomaz Miholic and it's not in privacy policy conflict with the website privacy. External source is necessary part of this plugin because the data is coming from this source.
 Please not that if image display option is enabled that this can have impact on your wordpress website loading time, because images are loaded from external source from four different subdomains (External source domain: mytopnewsongs.com, subdomains: imga,imgb,imgc,imgd).
 
 In next upgrade it's planned to add the categories (music genres) so user can select most appropriate genre for his blog/music style.
