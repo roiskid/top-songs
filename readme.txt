@@ -24,7 +24,7 @@ In next upgrade it's planned to add the categories (music genres) so user can se
 
 == Installation ==
 
-1. Download the zip folder named top-songs-plugin.zip
+1. Download the zip folder named top-songs.zip
 2. Unzip the folder and put it in the plugins directory of your wordpress installation. (wp-content/plugins).
 3. Activate the plugin through the plugin window in the admin panel.
 4. Go to Widgets to set it to widget area (best option is side area).
@@ -53,9 +53,9 @@ If option that displays images is enabled than this can happen due to external i
 
 == Screenshots ==
 
-1. screenshot_1.jpg - showing stand-alone chart with no images
-2. screenshot_2.jpg - showing few simple setting to make plugin more interactive
-3. screenshot_3.jpg - showing music chart with images enabled
+1. screenshot_1.png - showing stand-alone chart with no images
+2. screenshot_2.png - showing few simple setting to make plugin more interactive
+3. screenshot_3.png - showing music chart with images enabled
 
 == Changelog ==
 
