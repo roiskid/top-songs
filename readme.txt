@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin - widget that will show top songs every day - set this to your sidebar and you will have amazing content. Use special options to customize the widget.
+Plugin - widget that will show top songs every day - set this to your sidebar and you will have amazing content. 
 
 == Description ==
 
